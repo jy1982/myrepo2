@@ -8,3 +8,5 @@ This is a line from RStudio
 Line added from GitHub
 
 Does Chinese work? from Rstudio
+
+中文试试？ github
